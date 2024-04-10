@@ -1,0 +1,120 @@
+
+
+	
+body {background-image: url(cloud.jpg);}
+
+.box1{
+background-color: lightgrey;
+width: 100%;
+max-width: 350px;
+border-radius: 20px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+margin: auto;
+height: 100%;
+max-height: 100%;
+}
+
+.button2 {
+border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 100%;
+  max-width: 60px;
+  border-radius: 10px;
+
+}
+
+.button3 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #2F7BCB;
+
+}
+.button3:hover {
+  background-color: #2F7BCB;
+  color: white;
+}
+
+
+.button4 {
+border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 100%;
+  max-width: 120px;
+  border-radius: 10px;
+
+}
+
+
+
+.button5 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #EA8167;
+
+}
+.button5:hover {
+  background-color: #EA8167;
+  color: white;
+}
+
+
+.button7 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #EAA068;
+
+}
+.button7:hover {
+  background-color: #EAA068;
+  color: white;
+}
+
+.button8 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #3D54C9;
+
+}
+.button8:hover {
+  background-color: #3D54C9;
+  color: white;
+}
+
+
+.ord{
+  font-family: cursive;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 350px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
